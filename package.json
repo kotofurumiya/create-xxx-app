@@ -1,0 +1,34 @@
+{
+  "name": "create-xxx-app",
+  "version": "0.0.1",
+  "description": "Create any app with templates.",
+  "main": "lib/cxa.js",
+  "bin": {
+    "create-xxx-app": "bin/create-xxx-app.js"
+  },
+  "scripts": {},
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": "Koto Furumiya <kotofurumiya@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "create-xxx-app",
+    "cxa"
+  ],
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "tar": "^6.0.2",
+    "yargs": "^15.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kotofurumiya/create-xxx-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kotofurumiya/create-xxx-app/issues",
+    "email" : "kotofurumiya@gmai.com"
+  },
+  "homepage": "https://github.com/kotofurumiya/create-xxx-app"
+}
