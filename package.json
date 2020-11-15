@@ -1,6 +1,6 @@
 {
   "name": "create-xxx-app",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create any app with templates.",
   "main": "lib/cxa.js",
   "bin": {
@@ -28,7 +28,7 @@
   },
   "bugs": {
     "url": "https://github.com/kotofurumiya/create-xxx-app/issues",
-    "email" : "kotofurumiya@gmai.com"
+    "email": "kotofurumiya@gmai.com"
   },
   "homepage": "https://github.com/kotofurumiya/create-xxx-app"
 }

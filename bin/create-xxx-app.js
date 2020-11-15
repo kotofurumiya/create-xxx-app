@@ -2,4 +2,4 @@
 const { argv } = require('yargs')
 const { init } = require('../lib/cxa');
 
-init(argv._[0], { templateName: argv.template });
+init(argv._[0], { ...argv });
